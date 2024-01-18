@@ -1,5 +1,6 @@
 import Userinfo from '@/Components/Userinfo'
 import Image from 'next/image'
+ 
 
 export default function Home() {
   return (
